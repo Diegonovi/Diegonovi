@@ -1,4 +1,8 @@
-### Hi there 👋
+# Hello World!
+
+* Me llamo **Diego** y soy un estudiante de DAW @[Luis Vives](https://www.iesluisvives.es/)
+<img src="./Images/octocat-1696772187627.png" alt="My Octocat" width="200" align="right">
+
 
 <!--
 **Diegonovi/Diegonovi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

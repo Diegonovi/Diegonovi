@@ -5,27 +5,26 @@
 
 <p>Estas son las tecnologías y lenguages que he usado</p>
 
-<div style="overflow: auto">
-    <img src="./Images/Angular-logo.png" alt="Angular Logo" width="50" align="left">
-    <img src="./Images/Typescript-logo.png" alt="Typescript Logo" width="50" align="left">
-    <img src="./Images/typeorm-icon.png" alt="TypeORM" width="50" align="left">
-    <img src="./Images/Microsoft-sql-icon.png" alt="MSQL Logo" width="45" align="left">
-    <img src="./Images/mongodb-icon.webp" alt="Mongo Logo" width="50" align="left">
-    <img src="./Images/typeorm-icon.png" alt="TypeORM" width="50" align="left">
-    <img src="./Images/Microsoft-net-icon.png" alt="Dot Net Logo" width="50" align="left">
-    <img src="./Images/Bootstrap-logo.png" alt="Bootstrap Logo" width="50" align="left">
-    <img src="./Images/c-logo.svg" alt="C sharp logo" width="50" align="left">
-    <img src="./Images/Java-logo.png" alt="Java logo" width="50" align="left">
-    <img src="./Images/Mysql-logo.png" alt="MySql logo" width="50" align="left">
-    <img src="./Images/Postgresql-icon.png" alt="MySql logo" width="50" align="left">
-    <img src="./Images/Git-icon.png" alt="Git Logo" width="50" align="left">
-    <img src="./Images/docker-icon.png" alt="Docker Logo" width="50" align="left">
-    <img src="./Images/kotlin-logo-6A9E0484CA-seeklogo.com.png" alt="Kotlin Logo" width="45" align="left">
-    <img src="./Images/html5-icon.png" alt="HTML5 Logo" width="45" align="left">
-    <img src="./Images/ISO_C++_Logo.svg.png" alt="C++ Logo" width="45" align="left">
-</div>
+<img src="./Images/Angular-logo.png" alt="Angular Logo" width="50" align="left">
+<img src="./Images/Typescript-logo.png" alt="Typescript Logo" width="50" align="left">
+<img src="./Images/typeorm-icon.png" alt="TypeORM" width="50" align="left">
+<img src="./Images/Microsoft-sql-icon.png" alt="MSQL Logo" width="45" align="left">
+<img src="./Images/mongodb-icon.webp" alt="Mongo Logo" width="50" align="left">
+<img src="./Images/typeorm-icon.png" alt="TypeORM" width="50" align="left">
+<img src="./Images/Microsoft-net-icon.png" alt="Dot Net Logo" width="50" align="left">
+<img src="./Images/Bootstrap-logo.png" alt="Bootstrap Logo" width="50" align="left">
+<img src="./Images/c-logo.svg" alt="C sharp logo" width="50" align="left">
+<img src="./Images/Java-logo.png" alt="Java logo" width="50" align="left">
+<img src="./Images/Mysql-logo.png" alt="MySql logo" width="50" align="left">
+<img src="./Images/Postgresql-icon.png" alt="MySql logo" width="50" align="left">
+<img src="./Images/Git-icon.png" alt="Git Logo" width="50" align="left">
+<img src="./Images/docker-icon.png" alt="Docker Logo" width="50" align="left">
+<img src="./Images/kotlin-logo-6A9E0484CA-seeklogo.com.png" alt="Kotlin Logo" width="45" align="left">
+<img src="./Images/html5-icon.png" alt="HTML5 Logo" width="45" align="left">
+<img src="./Images/ISO_C++_Logo.svg.png" alt="C++ Logo" width="45" align="left">
 
-</br>
+. 
+<br clear="left">
 
 Para contactarme puedes enviarme un email a la dirección de abajo 👇
 

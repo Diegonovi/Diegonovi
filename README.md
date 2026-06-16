@@ -1,34 +1,37 @@
-# Hello World!
+# Hello World! 👋
 
-- Me llamo **Diego** y soy un desarrollador web full stack
-  <img src="./Images/octocat-1696772187627.png" alt="My Octocat" width="200" align="right">
+Me llamo **Diego** y soy un desarrollador web full stack  
+<img src="./Images/octocat-1696772187627.png" alt="My Octocat" width="200" align="right">
 
-<p>Estas son las tecnologías y lenguages que he usado</p>
+## 🚀 Tecnologías que he usado
 
-<img src="./Images/Angular-logo.png" alt="Angular Logo" width="50" align="left">
-<img src="./Images/Typescript-logo.png" alt="Typescript Logo" width="50" align="left">
-<img src="./Images/typeorm-icon.png" alt="TypeORM" width="50" align="left">
-<img src="./Images/Microsoft-sql-icon.png" alt="MSQL Logo" width="45" align="left">
-<img src="./Images/mongodb-icon.webp" alt="Mongo Logo" width="50" align="left">
-<img src="./Images/typeorm-icon.png" alt="TypeORM" width="50" align="left">
-<img src="./Images/Microsoft-net-icon.png" alt="Dot Net Logo" width="50" align="left">
-<img src="./Images/Bootstrap-logo.png" alt="Bootstrap Logo" width="50" align="left">
-<img src="./Images/c-logo.svg" alt="C sharp logo" width="50" align="left">
-<img src="./Images/Java-logo.png" alt="Java logo" width="50" align="left">
-<img src="./Images/Mysql-logo.png" alt="MySql logo" width="50" align="left">
-<img src="./Images/Postgresql-icon.png" alt="MySql logo" width="50" align="left">
-<img src="./Images/Git-icon.png" alt="Git Logo" width="50" align="left">
-<img src="./Images/docker-icon.png" alt="Docker Logo" width="50" align="left">
-<img src="./Images/kotlin-logo-6A9E0484CA-seeklogo.com.png" alt="Kotlin Logo" width="45" align="left">
-<img src="./Images/html5-icon.png" alt="HTML5 Logo" width="45" align="left">
-<img src="./Images/ISO_C++_Logo.svg.png" alt="C++ Logo" width="45" align="left">
+<p align="left">
+  <img src="./Images/Angular-logo.png" width="50">
+  <img src="./Images/Typescript-logo.png" width="50">
+  <img src="./Images/typeorm-icon.png" width="50">
+  <img src="./Images/Microsoft-sql-icon.png" width="45">
+  <img src="./Images/mongodb-icon.webp" width="50">
+  <img src="./Images/Microsoft-net-icon.png" width="50">
+  <img src="./Images/Bootstrap-logo.png" width="50">
+  <img src="./Images/c-logo.svg" width="50">
+  <img src="./Images/Java-logo.png" width="50">
+  <img src="./Images/Mysql-logo.png" width="50">
+  <img src="./Images/Postgresql-icon.png" width="50">
+  <img src="./Images/Git-icon.png" width="50">
+  <img src="./Images/docker-icon.png" width="50">
+  <img src="./Images/kotlin-logo-6A9E0484CA-seeklogo.com.png" width="45">
+  <img src="./Images/html5-icon.png" width="45">
+  <img src="./Images/ISO_C++_Logo.svg.png" width="45">
+</p>
 
- 
-<br clear="left">
+---
 
-Para contactarme puedes enviarme un email a la dirección de abajo 👇
+## 📬 Contacto
 
-[Contact](mailto:diegonoviluce28@gmail.com)
+Puedes enviarme un email aquí 👇  
+[**diegonoviluce28@gmail.com**](mailto:diegonoviluce28@gmail.com)
+
+
 
  <!--START_SECTION:waka-->
 

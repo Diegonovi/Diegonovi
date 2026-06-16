@@ -18,11 +18,11 @@ Para contactarme puedes enviarme un email a la dirección de abajo 👇
  <!--START_SECTION:waka-->
 
 ```txt
-TypeScript   10 hrs 27 mins        ████████████████████▒░░░░   81.70 %
-HTML         1 hr 32 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.07 %
-JSON         30 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.97 %
-SCSS         16 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.18 %
-Other        0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+TypeScript   9 hrs 16 mins         █████████████████████▒░░░   85.63 %
+HTML         1 hr 3 mins           ██▒░░░░░░░░░░░░░░░░░░░░░░   09.78 %
+SCSS         16 mins               ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.58 %
+JSON         12 mins               ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.92 %
+Other        0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 %
 ```
 
 <!--END_SECTION:waka-->

@@ -2,15 +2,15 @@
 
 <p>
   Me llamo <strong>Diego</strong> y soy un desarrollador web full stack.
+</p>
+
+<p>
   <img src="./Images/octocat-1696772187627.png" width="200" align="right">
 </p>
 
 ---
 
-
-<p style="font-size: 24px; font-weight: bold; margin-top: 20px; margin-bottom: 10px;">
-  🚀 Tecnologías que uso
-</p>
+<h2>🚀 Tecnologías que uso</h2>
 
 <p>
   <img src="./Images/Angular-logo.png" width="55"> &nbsp;&nbsp;
@@ -31,13 +31,9 @@
   <img src="./Images/ISO_C++_Logo.svg.png" width="50">
 </p>
 
-
 ---
 
-
-<p style="font-size: 24px; font-weight: bold; margin-top: 20px; margin-bottom: 10px;">
-  📬 Contacto
-</p>
+<h2>📬 Contacto</h2>
 
 <p style="margin-bottom: 20px">
   Puedes enviarme un email aquí 👇  

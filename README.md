@@ -23,7 +23,7 @@
 <img src="./Images/html5-icon.png" alt="HTML5 Logo" width="45" align="left">
 <img src="./Images/ISO_C++_Logo.svg.png" alt="C++ Logo" width="45" align="left">
 
-. 
+ 
 <br clear="left">
 
 Para contactarme puedes enviarme un email a la dirección de abajo 👇

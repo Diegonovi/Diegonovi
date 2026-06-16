@@ -5,7 +5,7 @@
 </p>
 
 <p>
-  <img src="./Images/octocat-1696772187627.png" width="200" align="right">
+  <img src="./Images/octocat-1696772187627.png" width="200" style="margin-bottom:200px" align="right">
 </p>
 
 ---

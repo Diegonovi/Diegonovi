@@ -9,7 +9,7 @@
 
 ## 🚀 Tecnologías que uso
 
-<div style="display: flex; flex-wrap: wrap; gap: 1rem; align-items: center;">
+<div style="display: flex; flex-wrap: wrap; gap: 15px; align-items: center;">
 
   <img src="./Images/Angular-logo.png" width="55">
   <img src="./Images/Typescript-logo.png" width="55">
@@ -34,7 +34,7 @@
 
 ## 📬 Contacto
 
-<p style="margin-bottom: 2rem">
+<p style="margin-bottom: 20px">
   Puedes enviarme un email aquí 👇  
   <br>
   <a href="mailto:diegonoviluce28@gmail.com"><strong>diegonoviluce28@gmail.com</strong></a>

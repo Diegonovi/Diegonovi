@@ -9,25 +9,33 @@
 
 ## 🚀 Tecnologías que uso
 
-<div style="display: flex; flex-wrap: wrap; gap: 15px; align-items: center;">
-
-  <img src="./Images/Angular-logo.png" width="55">
-  <img src="./Images/Typescript-logo.png" width="55">
-  <img src="./Images/typeorm-icon.png" width="55">
-  <img src="./Images/Microsoft-sql-icon.png" width="50">
-  <img src="./Images/mongodb-icon.webp" width="55">
-  <img src="./Images/Microsoft-net-icon.png" width="55">
-  <img src="./Images/Bootstrap-logo.png" width="55">
-  <img src="./Images/c-logo.svg" width="55">
-  <img src="./Images/Java-logo.png" width="55">
-  <img src="./Images/Mysql-logo.png" width="55">
-  <img src="./Images/Postgresql-icon.png" width="55">
-  <img src="./Images/Git-icon.png" width="55">
-  <img src="./Images/docker-icon.png" width="55">
-  <img src="./Images/kotlin-logo-6A9E0484CA-seeklogo.com.png" width="50">
-  <img src="./Images/html5-icon.png" width="50">
-  <img src="./Images/ISO_C++_Logo.svg.png" width="50">
-
+<div align="center">
+    <table>
+        <tr border="0">
+            <td><img src="./Images/Angular-logo.png" width="55"></td>
+            <td><img src="./Images/Typescript-logo.png" width="55"></td>
+            <td><img src="./Images/typeorm-icon.png" width="55"></td>
+            <td><img src="./Images/Microsoft-sql-icon.png" width="50"></td>
+            <td><img src="./Images/mongodb-icon.webp" width="55"></td>
+        </tr>
+        <tr>
+            <td><img src="./Images/Microsoft-net-icon.png" width="55"></td>
+            <td><img src="./Images/Bootstrap-logo.png" width="55"></td>
+            <td><img src="./Images/c-logo.svg" width="55"></td>
+            <td><img src="./Images/Java-logo.png" width="55"></td>
+            <td><img src="./Images/Mysql-logo.png" width="55"></td>
+        </tr>
+        <tr>
+            <td><img src="./Images/Postgresql-icon.png" width="55"></td>
+            <td><img src="./Images/Git-icon.png" width="55"></td>
+            <td><img src="./Images/docker-icon.png" width="55"></td>
+            <td><img src="./Images/kotlin-logo-6A9E0484CA-seeklogo.com.png" width="50"></td>
+            <td><img src="./Images/html5-icon.png" width="50"></td>
+        </tr>
+        <tr>
+            <td><img src="./Images/ISO_C++_Logo.svg.png" width="50"></td>
+        </tr>
+    </table>
 </div>
 
 ---

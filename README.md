@@ -7,9 +7,10 @@
 
 ---
 
-<div>
-    <h2>🚀 Tecnologías que uso </h2>
-</div>
+
+<p style="font-size: 24px; font-weight: bold; margin-top: 20px; margin-bottom: 10px;">
+  🚀 Tecnologías que uso
+</p>
 
 <p>
   <img src="./Images/Angular-logo.png" width="55"> &nbsp;&nbsp;
@@ -33,9 +34,10 @@
 
 ---
 
-<div>
-    <h2>📬 Contacto </h2>
-</div>
+
+<p style="font-size: 24px; font-weight: bold; margin-top: 20px; margin-bottom: 10px;">
+  📬 Contacto
+</p>
 
 <p style="margin-bottom: 20px">
   Puedes enviarme un email aquí 👇  
